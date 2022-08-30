@@ -49,7 +49,20 @@ flutter:
   - assets/25702.png
   - assets/menu_icon.svg
   - assets/bread.jpg
-  
+  - assets/caffe.jpg
+  - assets/pancakes.jpg
+  - assets/dinner.jpg
+  - assets/torta.jpg
+  - assets/capuchino.jpg
+  - assets/panes.png
+  - assets/pancakes.jpg
+  - assets/carnes.jpg
+  - assets/canela.jpg
+  - assets/cheese.jpg
+  - assets/pudin.png
+  - assets/cafe.jpeg
+  - assets/te.jpg
+
   fonts:
   - family: DynaPuff
     fonts:
@@ -61,3 +74,8 @@ flutter:
         weight: 400
       - asset: assets/letras/DynaPuff-Medium.ttf
         weight: 500
+  
+  - family: Silkscreen
+    fonts: 
+      - asset: assets/letras/Silkscreen-Bold.ttf
+      - asset: assets/letras/Silkscreen-Regular.ttf
